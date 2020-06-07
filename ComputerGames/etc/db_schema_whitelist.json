@@ -1,0 +1,15 @@
+{
+    "computer_games": {
+        "column": {
+            "game_id": true,
+            "name": true,
+            "type": true,
+            "trial_period": true,
+            "release_date": true,
+            "image": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
